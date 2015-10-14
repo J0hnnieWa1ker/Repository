@@ -1,0 +1,47 @@
+J0hnnie Wa1ker
+
+Skills
+* Hardware
+Network Servers, PCs, Raid Solutions, Backup Solutions, Print Servers, Hubs, Switches, Routers, Communication Boards
+* Software 
+DOS, Windows 3.11, Windows 95/98, NT (3.51 and 4.0), NetWare (3.12 to 5) Unix (FreeBSD and Caldera)
+Office, Photoshop, Illustrator, Freehand, and PageMaker
+GroupWise, Exchange, and CC:Mail
+Zen Works, ManageWise and Intel Landesk Management Suite. 
+Arcserve, Inoculan, FaxServe and BackupExec.  
+Network Connect, RAS, BorderManager
+* Networking    
+TCP/IP, IPX, Ethernet, Token Ring, FDDI, ISDN, T1, NDS, Domains, HTTP, SSL, LDAP, SMTP, IMAP4, POP3, FTP, DNS, and DHCP
+
+Professional Experience
+March, 1999 to Present 
+Novell   http://consulting.novell.com/consulti.html
+San Jose, CA
+Consultant 
+Novell Consulting provides organizations worldwide with customer-driven networking services and solutions. Novell Consulting's teams of IT professionals provide customers with on-site consulting services and technologies that meet business and network needs. Novell Consulting maximizes your networking technology investment, minimizing implementation time and risk. 
+
+August, 1996 to February, 1999 
+Microman  http://www.microman.com 
+Dublin, OH	
+Project Manager
+Provide Pre-Sales Design, consultation and demonstrations. Project Management. Administrate Microman's internal network. Provide training for all levels of Microman's engineers and clients. Design and troubleshoot the more complex LAN/WAN configurations. 
+Network Engineer 
+Install Netware to new servers, migrate netware from old servers to new ones, and upgrade old versions to Netware 4.11. Patch servers with the latest NLMs and Drivers. Install 3rd party software (like Arcserve 6.0, Backup Exec 7.11, Inoculan 4, and Intel Landesk 2.51). Install and configure Novell software (like ManageWise 2.5, Border Manager, Network Connect 2.0, and Groupwise 5.2) Troubleshoot and fix network problems using TechNet, NSEpro, Tech Support Phone numbers, Web Pages, etc.
+
+February, 1996 to August, 1996
+CompuTel  http://www.computel.net 
+Reynoldsberg, OH	
+Network Engineer 
+Responsible for the implementation of new networks (Novell 3.12, Novell 4.1 and Windows NT Server 3.51).  Perform administration for clients with established networks. Consult with customers about new technologies, and ways they can improve their networks. 
+
+May, 1995 to June, 1996
+AutoTool 
+Dublin, OH
+Network Administration 
+Established and administered an NT network. Added print servers to eliminate the switch box. Set up Exchange, DHCP, Wins, and a Backup solution. 
+
+March, 1992 to May, 1995
+C & K Cabinetry  
+Westerville, OH
+Office Manager 
+Responsible for production schedules, installations, and customer satisfaction. Hired the cabinetmakers and installation technicians. Took care of PCs and Software needs.
